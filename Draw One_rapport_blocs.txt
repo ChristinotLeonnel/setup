@@ -1,0 +1,50 @@
+================================================================================
+RAPPORT DÉTAILLÉ DES BLOCS
+================================================================================
+
+📊 STATISTIQUES:
+  Définitions de blocs: 4
+  Instances de blocs: 2
+  Blocs dynamiques: 0
+
+================================================================================
+🔲 DÉFINITIONS DE BLOCS
+================================================================================
+
+Bloc: *Model_Space
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 2
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbBlockReference: 2
+
+Bloc: *Paper_Space
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 0
+  Nombre d'attributs: 0
+
+Bloc: *Paper_Space0
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 0
+  Nombre d'attributs: 0
+
+Bloc: Teste Num One
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 1
+
+================================================================================
+🔄 BLOCS DYNAMIQUES
+================================================================================
+
+================================================================================
+🏆 TOP 10 DES BLOCS LES PLUS UTILISÉS
+================================================================================
+
+1. Teste Num One: 2 instances

@@ -1,0 +1,2302 @@
+================================================================================
+RAPPORT DÉTAILLÉ DES BLOCS
+================================================================================
+
+📊 STATISTIQUES:
+  Définitions de blocs: 211
+  Instances de blocs: 55
+  Blocs dynamiques: 0
+
+================================================================================
+🔲 DÉFINITIONS DE BLOCS
+================================================================================
+
+Bloc: *Model_Space
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 3230
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbPolyline: 793
+    - AcDbLine: 1595
+    - AcDbRotatedDimension: 178
+    - AcDbMText: 423
+    - AcDbHatch: 30
+    - AcDbText: 86
+    - AcDbSpline: 40
+    - AcDbCircle: 10
+    - AcDbBlockReference: 55
+    - AcDbArc: 20
+
+Bloc: *Paper_Space
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 0
+  Nombre d'attributs: 0
+
+Bloc: *Paper_Space0
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 0
+  Nombre d'attributs: 0
+
+Bloc: _ArchTick
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbPolyline: 1
+
+Bloc: A$C1D6C0704
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 94
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 76
+    - AcDbArc: 12
+    - AcDbCircle: 6
+
+Bloc: *D3
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbSolid: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D4
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 11
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 5
+    - AcDbSolid: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D5
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 11
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 5
+    - AcDbSolid: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D6
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 11
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 5
+    - AcDbSolid: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: _Open
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 3
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+
+Bloc: *D8
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D9
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D10
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D11
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: A$Cddd436b7
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbMText: 1
+
+Bloc: *D13
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D14
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D15
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D16
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D17
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D18
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D19
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D20
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D21
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D22
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D23
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D24
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D25
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D26
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D27
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D28
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D29
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D30
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D31
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D32
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D33
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: A$Cd90d7e2f
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbMText: 1
+
+Bloc: *D35
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D36
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D37
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D38
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D39
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D40
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D41
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D42
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D43
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D44
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D45
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D46
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D47
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 10
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 4
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D48
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D49
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: A$C1cbb5b34
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbMText: 1
+
+Bloc: A$C2ba0b3eb
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbMText: 1
+
+Bloc: *D52
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D53
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D54
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D55
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D56
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D57
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D58
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: _Oblique
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 1
+
+Bloc: A$Ca66e699e
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 90
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbPolyline: 69
+    - AcDbMText: 11
+    - AcDbLine: 10
+
+Bloc: Porte 93
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 16
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbPolyline: 2
+    - AcDbLine: 12
+    - AcDbArc: 2
+
+Bloc: Porte Simple 93
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 12
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbPolyline: 2
+    - AcDbLine: 9
+    - AcDbArc: 1
+
+Bloc: A$C7D732DF0
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 21
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbArc: 16
+    - AcDbLine: 4
+    - AcDbCircle: 1
+
+Bloc: A$C3C0C6A94
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbPolyline: 1
+    - AcDbArc: 3
+    - AcDbLine: 2
+    - AcDbCircle: 1
+    - AcDbSpline: 1
+    - AcDbEllipse: 1
+
+Bloc: A$C9cbf1c48
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbBlockReference: 1
+
+Bloc: A$C793314D9
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 41
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 13
+    - AcDbArc: 28
+
+Bloc: TAM
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 22
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbArc: 3
+    - AcDbCircle: 2
+    - AcDbLine: 17
+
+Bloc: A$C453163C9
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 22
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbArc: 10
+    - AcDbPolyline: 1
+    - AcDbLine: 9
+    - AcDbBlockReference: 1
+    - AcDbCircle: 1
+
+Bloc: SINK12RS
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 15
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbPolyline: 3
+    - AcDbCircle: 2
+    - AcDbLine: 10
+
+Bloc: A$C73F932EB
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 42
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbCircle: 2
+    - AcDbLine: 34
+    - AcDbArc: 4
+    - AcDbPolyline: 1
+    - AcDbBlockReference: 1
+
+Bloc: A$C7568766F
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 56
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 22
+    - AcDbArc: 34
+
+Bloc: A$C29271986
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 120
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 69
+    - AcDbArc: 51
+
+Bloc: A$C26D713EC
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 78
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 37
+    - AcDbArc: 40
+    - AcDbPolyline: 1
+
+Bloc: Bed - Queen
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 16
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 16
+
+Bloc: A$C8a628b38
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbBlockReference: 1
+
+Bloc: A$C6E360E6F
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 48
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbArc: 8
+    - AcDbLine: 40
+
+Bloc: 12PRST07
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 47
+  Nombre d'attributs: 4
+  Attributs:
+    - DEPTH: 
+    - ROOM_NUMBER: Room Number
+    - ITEM: 
+    - WIDTH: 
+  Types d'entités:
+    - AcDbAttributeDefinition: 4
+    - AcDbLine: 33
+    - AcDbArc: 10
+
+Bloc: A$C15161FA2
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 73
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 52
+    - AcDbArc: 12
+    - AcDbPolyline: 9
+
+Bloc: A$C0680331e
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbBlockReference: 1
+
+Bloc: A$C56df348e
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 1
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbBlockReference: 1
+
+Bloc: A$C4AF91B6D
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 45
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbPolyline: 7
+    - AcDbLine: 20
+    - AcDbArc: 18
+
+Bloc: *D82
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D83
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D84
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D85
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D86
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D87
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D88
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D89
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D90
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D91
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D92
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D93
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D94
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D95
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D96
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D97
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D98
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D99
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D100
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D101
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D102
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D103
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D104
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D105
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D106
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D107
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D108
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D109
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D110
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D111
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D112
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D113
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D114
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D115
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D116
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D117
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D118
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D119
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D120
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D121
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D122
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D123
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D124
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D125
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D126
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D127
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D128
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D129
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D130
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D131
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 11
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 5
+    - AcDbMText: 1
+    - AcDbBlockReference: 2
+    - AcDbPoint: 3
+
+Bloc: *D132
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D133
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 11
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 5
+    - AcDbMText: 1
+    - AcDbBlockReference: 2
+    - AcDbPoint: 3
+
+Bloc: *D134
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 11
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 5
+    - AcDbMText: 1
+    - AcDbBlockReference: 2
+    - AcDbPoint: 3
+
+Bloc: *D135
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D136
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D137
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D138
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D139
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D140
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D141
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D142
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D143
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D144
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D145
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D146
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D147
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D148
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D149
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D150
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D151
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 11
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 5
+    - AcDbMText: 1
+    - AcDbBlockReference: 2
+    - AcDbPoint: 3
+
+Bloc: *D152
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D153
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 11
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 5
+    - AcDbMText: 1
+    - AcDbBlockReference: 2
+    - AcDbPoint: 3
+
+Bloc: *D154
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D155
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D156
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D157
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D158
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D159
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D160
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D161
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D162
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D163
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D164
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D165
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D166
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D167
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D168
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D169
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D170
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D171
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D172
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D173
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D174
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D175
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D176
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D177
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D178
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D179
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D180
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D181
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D182
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D183
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D184
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D185
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D186
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D188
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D189
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D190
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D191
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D192
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D193
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D194
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D195
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D196
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D198
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D199
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D200
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D201
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D202
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D203
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D204
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D205
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D206
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D207
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D210
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D211
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+Bloc: *D212
+  Dynamique: False
+  XRef: False
+  Nombre d'entités: 9
+  Nombre d'attributs: 0
+  Types d'entités:
+    - AcDbLine: 3
+    - AcDbBlockReference: 2
+    - AcDbMText: 1
+    - AcDbPoint: 3
+
+================================================================================
+🔄 BLOCS DYNAMIQUES
+================================================================================
+
+================================================================================
+🏆 TOP 10 DES BLOCS LES PLUS UTILISÉS
+================================================================================
+
+1. Porte Simple 93: 19 instances
+2. Bed - Queen: 6 instances
+3. A$C7D732DF0: 4 instances
+4. A$C793314D9: 4 instances
+5. A$C453163C9: 4 instances
+6. 12PRST07: 4 instances
+7. A$C15161FA2: 4 instances
+8. A$C73F932EB: 2 instances
+9. A$C7568766F: 2 instances
+10. A$C26D713EC: 2 instances

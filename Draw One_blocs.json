@@ -1,0 +1,174 @@
+{
+  "definitions_blocs": [
+    {
+      "nom": "*Model_Space",
+      "est_dynamique": false,
+      "est_xref": false,
+      "est_layout": true,
+      "nombre_entites": 2,
+      "origine": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "entites_contenues": [
+        {
+          "type": "AcDbBlockReference",
+          "calque": "0"
+        },
+        {
+          "type": "AcDbBlockReference",
+          "calque": "0"
+        }
+      ],
+      "attributs": [],
+      "types_entites": {
+        "AcDbBlockReference": 2
+      },
+      "nombre_attributs": 0
+    },
+    {
+      "nom": "*Paper_Space",
+      "est_dynamique": false,
+      "est_xref": false,
+      "est_layout": true,
+      "nombre_entites": 0,
+      "origine": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "entites_contenues": [],
+      "attributs": [],
+      "types_entites": {},
+      "nombre_attributs": 0
+    },
+    {
+      "nom": "*Paper_Space0",
+      "est_dynamique": false,
+      "est_xref": false,
+      "est_layout": true,
+      "nombre_entites": 0,
+      "origine": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "entites_contenues": [],
+      "attributs": [],
+      "types_entites": {},
+      "nombre_attributs": 0
+    },
+    {
+      "nom": "Teste Num One",
+      "est_dynamique": false,
+      "est_xref": false,
+      "est_layout": false,
+      "nombre_entites": 1,
+      "origine": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "entites_contenues": [
+        {
+          "type": "AcDbLine",
+          "calque": "0",
+          "debut": [
+            0.0,
+            0.0,
+            0.0
+          ],
+          "fin": [
+            1035.2127157177292,
+            472.5820703405816,
+            0.0
+          ],
+          "longueur": 1137.9803073828064
+        }
+      ],
+      "attributs": [],
+      "types_entites": {
+        "AcDbLine": 1
+      },
+      "nombre_attributs": 0
+    }
+  ],
+  "instances_blocs": [
+    {
+      "nom_bloc": "Teste Num One",
+      "espace": "ModelSpace",
+      "est_dynamique": false,
+      "position": {
+        "x": 161072.6619947685,
+        "y": 132351.58685434607,
+        "z": 0.0
+      },
+      "rotation": 0.0,
+      "rotation_degres": 0.0,
+      "echelle": {
+        "x": 1000.0,
+        "y": 1000.0,
+        "z": 1000.0
+      },
+      "calque": "0",
+      "couleur": 256,
+      "type_ligne": "ByLayer",
+      "epaisseur_ligne": -1,
+      "visible": true,
+      "attributs": [],
+      "handle": "2C3",
+      "nombre_attributs": 0
+    },
+    {
+      "nom_bloc": "Teste Num One",
+      "espace": "ModelSpace",
+      "est_dynamique": false,
+      "position": {
+        "x": 1196285.3777124977,
+        "y": 604933.6571949277,
+        "z": 0.0
+      },
+      "rotation": 0.0,
+      "rotation_degres": 0.0,
+      "echelle": {
+        "x": 1000.0,
+        "y": 1000.0,
+        "z": 1000.0
+      },
+      "calque": "0",
+      "couleur": 256,
+      "type_ligne": "ByLayer",
+      "epaisseur_ligne": -1,
+      "visible": true,
+      "attributs": [],
+      "handle": "2CC",
+      "nombre_attributs": 0
+    }
+  ],
+  "blocs_dynamiques": [],
+  "statistiques": {
+    "definitions": {
+      "total": 4,
+      "dynamiques": 0,
+      "xref": 0,
+      "avec_attributs": 0
+    },
+    "instances": {
+      "total": 2,
+      "modelspace": 2,
+      "paperspace": 0,
+      "dynamiques": 0
+    },
+    "top_10_blocs_utilises": [
+      {
+        "nom": "Teste Num One",
+        "nombre": 2
+      }
+    ],
+    "nombre_calques_utilises": 1,
+    "calques_utilises": [
+      "0"
+    ]
+  }
+}
